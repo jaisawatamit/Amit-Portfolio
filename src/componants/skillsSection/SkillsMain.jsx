@@ -1,7 +1,7 @@
 import React from 'react'
 import SkillsText from './SkillsText'
 import AllSkills from './AllSkills'
-import AllSkillsSM from './AllSkillsSM.JSX'
+import AllSkillsSM from './AllSkillsSM'
 import { fadeIn } from '../../farmerMotion/variants'
 import { motion } from 'framer-motion'
 
