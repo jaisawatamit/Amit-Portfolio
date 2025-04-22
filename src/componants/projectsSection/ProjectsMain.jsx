@@ -21,11 +21,18 @@ const projects = [
     },
     {
       name: "Uber-Clone",
-      year: "March2025",
+      year: "March 2025",
       align: "right",
       image: "/images/ChatGPT Image Apr 4, 2025, 05_19_10 PM.png",
       link: "https://uber-clone-frontend-wtxv.onrender.com",
     },
+     {
+      name: "Food-Application",
+      year: "April 2025",
+      align: "left",
+      image: "/images/ChatGPT Image Apr 4, 2025, 05_19_10 PM.png",
+      link: "https://food-application-food-web.onrender.com",
+    },Ï
   ];
 
 function ProjectsMain() {
