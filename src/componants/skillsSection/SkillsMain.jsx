@@ -1,9 +1,10 @@
 import React from 'react'
 import SkillsText from './SkillsText'
 import AllSkills from './AllSkills'
-import AllSkillsSM from './AllSkillsSM.JSX'
 import { fadeIn } from '../../farmerMotion/variants'
 import { motion } from 'framer-motion'
+import AllSkillsSM from './AllSkillsSM'
+
 
 function SkillsMain() {
     return (
@@ -21,7 +22,7 @@ function SkillsMain() {
                     <AllSkills />
                 </div>
                 <div className='sm:block lg:hidden'>
-                    <AllSkillsSM />
+<AllSkillsSM/>
                 </div>
             </div>
 
