@@ -12,7 +12,7 @@ function HeroPic() {
       viewport={{ once: false, amount: 0 }}
       className=" h-full flex items-center justify-center ">
       <img
-        src="/public/images/IMG_20240824_144528_075__2_-removebg-preview.png"
+        src="/images/IMG_20240824_144528_075__2_-removebg-preview.png"
         alt="Amit Singh Jaisawat"
         className="max-h-[400px] w-auto rounded-[100%]"
       />
