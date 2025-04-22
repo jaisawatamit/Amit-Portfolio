@@ -30,7 +30,7 @@ const projects = [
       name: "Food-Application",
       year: "April 2025",
       align: "left",
-      image: "/images/ChatGPT Image Apr 4, 2025, 05_19_10 PM.png",
+      image: "/images/food-image.avif",
       link: "https://food-application-food-web.onrender.com",
     },Ï
   ];
